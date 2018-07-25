@@ -19,7 +19,7 @@
 <body>
     <form id="form" runat="server">
 <div class="overlay">
-	<h1 class="agileits">宏 博 局 放 检 测 云 分 析 系 统</h1>
+	<h1 class="agileits">局 放 检 测 云 分 析 系 统</h1>
 	<div class="content-w3ls agileits">
 		<img src="Images/HB.png" alt="" class="user-wthree"/>
 		<form action="#" method="post">
@@ -36,7 +36,7 @@
 		</form>
 	</div>
 	<div class="footer-w3ls w3-agile">
-		<p class="w3-agileits">© Copyright 2018 www.hnhbck.com All rights reserved. 河南宏博测控技术有限公司 版权所有  <a href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备09018549号</a></p>
+		<p class="w3-agileits">© Copyright 2018 版权所有  <a href="http://www.miitbeian.gov.cn/" target="_blank">豫ICP备09018549号</a></p>
 	</div>	
 </div>
 <video autoplay loop id="video-background" poster="Video/city.jpg" muted>
