@@ -258,11 +258,7 @@
             <div style="background-color: #E2E9EF"></div>
             <div style="margin-left: auto; margin-right: auto; width: 800px">
                 <div style="font-family: Arial, Helvetica, sans-serif; font-size: 12px">
-                    <p>销售电话：0371-56977880/56977890/63812255&nbsp;&nbsp;&nbsp;&nbsp;售后电话：0371-56977875/56977873</p>
-                    <p>传真：0371-63813838&nbsp;&nbsp;&nbsp;&nbsp;QQ：613712485/613712493&nbsp;&nbsp;&nbsp;&nbsp;邮箱：hnhbcom@163.com</p>
-                    <p>地址：郑州市金水区丰产路&nbsp;21&nbsp;号&nbsp;SOHO&nbsp;世纪城东塔&nbsp;8&nbsp;楼&nbsp;C&nbsp;座</p>
-                    <p>Copyright&nbsp;2009-2017&nbsp;www.hnhbdq.com    All&nbsp;rights&nbsp;reserved.&nbsp;&nbsp;&nbsp;&nbsp;河南宏博测控技术有限公司&nbsp;版权所有</p>
-                    <p>豫&nbsp;ICP&nbsp;备&nbsp;09018549&nbsp;号</p>
+                    
                 </div>
             </div>
         </div>
